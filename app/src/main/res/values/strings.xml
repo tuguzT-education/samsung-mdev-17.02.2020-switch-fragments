@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">17.02.2020</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment_2">Hello blank fragment 2</string>
+</resources>
